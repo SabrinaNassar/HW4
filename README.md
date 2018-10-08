@@ -14,3 +14,4 @@ What are two ways of increasing the spacing between rings?
 By increasing the number 10 in the for variable.
 
 How can you make the ellipse trail longer?
+make the slice number bigger so it keeps more outlines
